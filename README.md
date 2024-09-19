@@ -1,1 +1,1 @@
-# arrythmia-nn
+# Cardiac Arrythmia Prediction
